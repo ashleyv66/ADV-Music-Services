@@ -43,7 +43,7 @@ header {
 
 .nav-list {
     width:100%;
-    display:inline-flex;
+    display:flex;
     justify-content:space-around;
     align-content: center;
     flex-wrap:wrap;
@@ -69,6 +69,7 @@ header {
         font-size:2rem;
     }
 }
+
 /* Banner Styles*/
 
 #banner {
